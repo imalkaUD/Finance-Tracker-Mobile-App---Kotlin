@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme colors -->
+    <color name="primary">#f1c40f</color> <!-- Golden Yellow -->
+    <color name="primary_dark">#c29d0c</color> <!-- Rich Mustard -->
+    <color name="primary_light">#f7d84f</color> <!-- Soft Sun Yellow -->
+    <color name="accent">#f39c12</color> <!-- Warm Orange-Yellow for contrast -->
+    <color name="accent_dark">#d68910</color> <!-- Deeper Warm Gold -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#1a2a3a</color>     <!-- Dark Blue for main text -->
+    <color name="text_secondary">#3a4b5b</color>   <!-- Softened Slate Blue-Gray -->
+    <color name="text_hint">#7a8a9b</color>        <!-- Muted Light Blue-Gray for hints/placeholders -->
+    <color name="white">#ffffff</color>            <!-- Crisp White -->
+
+    <!-- Backgrounds -->
+    <color name="backgroundclr">#F4F6F8</color> <!-- soft cool white -->
+    <color name="background">#F4F6F8</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#D7DBE0</color> <!-- muted gray divider -->
+
+
+    
+
+    <!-- Status colors -->
+    <color name="success">#00C48C</color>
+    <color name="warning">#FFB800</color>
+    <color name="error">#EB5757</color>
+    <color name="info">#2D9BFE</color>
+
+    <!-- Transaction colors -->
+    <color name="income">#00C48C</color>
+    <color name="expense">#213448</color> <!-- matches primary -->
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#00C48C</color>
+    <color name="budget_warning">#FFB800</color>
+    <color name="budget_exceeded">#EB5757</color>
+
+    <!-- Chart colors - cool and structured -->
+    <color name="chart_color_1">#213448</color>
+    <color name="chart_color_2">#547792</color>
+    <color name="chart_color_3">#2D9BFE</color>
+    <color name="chart_color_4">#00C48C</color>
+    <color name="chart_color_5">#FFB800</color>
+    <color name="chart_color_6">#9B51E0</color>
+    <color name="chart_color_7">#56CCF2</color>
+    <color name="chart_color_8">#EB5757</color>
+
+    <!-- Category colors - modern cool tone set -->
+    <color name="category_food">#213448</color>
+    <color name="category_transport">#2D9BFE</color>
+    <color name="category_bills">#00C48C</color>
+    <color name="category_entertainment">#9B51E0</color>
+    <color name="category_shopping">#FFB800</color>
+    <color name="category_health">#547792</color>
+    <color name="category_education">#56CCF2</color>
+    <color name="category_housing">#4A4A52</color>
+    <color name="category_other">#A0A6AC</color>
+
+    <!-- Night Mode -->
+    <color name="night_primary">#547792</color> <!-- lighter steel blue -->
+    <color name="night_background">#121417</color> <!-- deep navy-black -->
+    <color name="night_surface">#1C2024</color>
+    <color name="night_text_primary">#F2F3F4</color>
+    <color name="night_text_secondary">#B8BCC0</color>
+    <color name="night_card_background">#262A2F</color>
+    <color name="night_divider">#32373D</color>
+    <color name="night_accent">#63D2FE</color>
+
+</resources>
