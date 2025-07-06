@@ -1,4 +1,4 @@
-📊 FTracker – Finance Tracker Mobile Application
+#📊 FTracker – Finance Tracker Mobile Application
 FTracker is a user-friendly and visually engaging personal finance tracking Android application developed using Android Studio. This app helps users efficiently manage their daily expenses, income, and budget goals — all in one place.
 
 🎨 Design Philosophy
@@ -69,8 +69,7 @@ Open the project in Android Studio.
 Build and run the project on an emulator or Android device.
 
 📸 Screenshots 
-![image](https://github.com/user-attachments/assets/2d14fd9d-1826-4350-91af-9c15b13c9a5c)
-![image](https://github.com/user-attachments/assets/78f5d17d-c1cf-4cf0-ae97-7e86182e6f5e)
+
 
 
 
